@@ -4,7 +4,7 @@
 
 ## **Features**
 
-- **Decentralized Storage**: Passwords are stored on IPFS, a peer-to-peer file system that ensures data availability without central servers.
+- **Decentralized Storage**: Data are persisted on IPFS, a peer-to-peer file system.
   
 - **Encryption**: Password data is stored in an encrypted vault using AES-256.
 
