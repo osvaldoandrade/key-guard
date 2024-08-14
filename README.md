@@ -10,7 +10,7 @@
 
 - **Cross-Platform**: Compatible with Linux, macOS, and Windows.
 
-- **Open-Source**: Licensed under GNU GPLv2.
+- **Open-Source**: Licensed under GNU GPLv3.
 
 ## **Repositories**
 
